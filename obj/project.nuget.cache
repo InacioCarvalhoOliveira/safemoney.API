@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "EG/ntRsP2/kFql89emWoNy1QivDg0wVBWOsFV67xWWNvZNLN8gsJSCDwi07GiTuv3pcV3W7DczFV1EY+W115WQ==",
+  "success": true,
+  "projectFilePath": "/media/inacio/HDD/IFSP/TCC/safemoney.API/safemoney.API.csproj",
+  "expectedPackageFiles": [
+    "/home/inacio/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/inacio/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/inacio/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/home/inacio/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/home/inacio/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/home/inacio/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

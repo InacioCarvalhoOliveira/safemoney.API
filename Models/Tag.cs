@@ -1,6 +1,6 @@
 namespace safemoney.API.Models
 {
-    class tag 
+    class Tag 
     {
         public Guid TagId { get; set; }
         public string? Name { get; set; }

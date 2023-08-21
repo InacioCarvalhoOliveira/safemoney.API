@@ -1,6 +1,6 @@
 namespace safemoney.API.Models
 {
-    class user 
+    class User 
     {
         public Guid UserId { get; set; }
         public string? Name { get; set; }

@@ -1,6 +1,6 @@
 namespace safemoney.API.Models
 {
-    class wallet 
+    class Wallet 
     {
         public Guid WalletId { get; set; }
         public decimal BalanceWallet { get; set; }

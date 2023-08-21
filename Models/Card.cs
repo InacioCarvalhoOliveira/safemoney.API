@@ -1,6 +1,6 @@
 namespace safemoney.API.Models
 {
-    class card 
+    class Card 
     {
         public int Number { get; set; }
         public DateTime EndValidity { get; set; }

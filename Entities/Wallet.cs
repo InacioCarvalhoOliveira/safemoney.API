@@ -1,4 +1,4 @@
-namespace safemoney.API.Models
+namespace safemoney.API.Entities
 {
     class Wallet 
     {

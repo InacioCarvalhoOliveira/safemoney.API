@@ -1,9 +1,9 @@
-namespace safemoney.API.Models
+namespace safemoney.API.Entities
 {
-    class User 
+    public class User 
     {
         public Guid UserId { get; set; }
-        public string? Name { get; set; }
+        public string? NameUser { get; set; }
         public string? Email { get; set; }
         public string? WebPassword { get; set; }
     }

@@ -1,0 +1,1 @@
+dotnet run --arch x64 --os linux --configuration Debug

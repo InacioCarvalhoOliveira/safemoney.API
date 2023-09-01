@@ -1,12 +1,8 @@
-namespace safemoney.API.Models
+namespace safemoney.API.Entities
 {
     class Product 
     {
-        // public product()
-        // {
-        //     CardId = new List<card>();
-        //     TagID = new List<tag>();
-        // }
+     
         public List<Card> CardId { get; set; } = new List<Card>();
         public List<Tag> TagID { get; set; } = new List<Tag>();
 

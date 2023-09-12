@@ -39,3 +39,11 @@
 /media/inacio/HDD/IFSP/TCC/safemoney.API/obj/Debug/net6.0/linux-x64/ref/safemoney.API.dll
 /media/inacio/HDD/IFSP/TCC/safemoney.API/obj/Debug/net6.0/linux-x64/safemoney.API.pdb
 /media/inacio/HDD/IFSP/TCC/safemoney.API/obj/Debug/net6.0/linux-x64/safemoney.API.genruntimeconfig.cache
+/media/inacio/HDD/IFSP/TCC/safemoney.API/bin/Debug/net6.0/linux-x64/Azure.Core.dll
+/media/inacio/HDD/IFSP/TCC/safemoney.API/bin/Debug/net6.0/linux-x64/Azure.Identity.dll
+/media/inacio/HDD/IFSP/TCC/safemoney.API/bin/Debug/net6.0/linux-x64/Microsoft.Bcl.AsyncInterfaces.dll
+/media/inacio/HDD/IFSP/TCC/safemoney.API/bin/Debug/net6.0/linux-x64/Microsoft.Identity.Client.Extensions.Msal.dll
+/media/inacio/HDD/IFSP/TCC/safemoney.API/bin/Debug/net6.0/linux-x64/System.Data.SqlClient.dll
+/media/inacio/HDD/IFSP/TCC/safemoney.API/bin/Debug/net6.0/linux-x64/Microsoft.IdentityModel.Abstractions.dll
+/media/inacio/HDD/IFSP/TCC/safemoney.API/bin/Debug/net6.0/linux-x64/Microsoft.SqlServer.Server.dll
+/media/inacio/HDD/IFSP/TCC/safemoney.API/bin/Debug/net6.0/linux-x64/System.Memory.Data.dll

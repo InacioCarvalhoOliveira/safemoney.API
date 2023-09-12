@@ -1,10 +1,13 @@
+using System.ComponentModel.DataAnnotations.Schema;
+
 namespace safemoney.API.Entities
 {
+    [Table("[USUARIO]")]
     public class User 
     {
-        public Guid UserId { get; set; }
-        public string? NameUser { get; set; }
-        public string? Email { get; set; }
-        public string? WebPassword { get; set; }
+        public string? USERID { get; set; }
+        public string? NAMEUSER { get; set; }
+        public string? EMAIL { get; set; }
+        public string? WEBPASSWORD { get; set; }
     }
 }

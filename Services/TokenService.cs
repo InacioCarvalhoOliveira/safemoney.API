@@ -37,7 +37,7 @@ namespace safemoney.API.Services
                 _issuer,
                 _audience,
                 claims,
-                expires: DateTime.UtcNow.AddHours(1), // Define o tempo de expiração do token (1 hora neste exemplo).
+                expires: DateTime.UtcNow.AddHours(48), // Define o tempo de expiração do token (48 horas neste exemplo).
                 signingCredentials: credentials
             );
 

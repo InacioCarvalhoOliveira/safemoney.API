@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "NOJtZ+vb7JNBKB1hqqi53FFWV32V9u4Vb4kWZ1um988a6YH41H8am6tqLKHyLLT0ja6SrcxhD3ebAvLXWMGWPg==",
+  "dgSpecHash": "E+9eSMxWynA4bN+9Z4yk2Qc++8c0IhN8PDykGqCkzOlEYqsjIPJyzS2Gb3S3eJn8XeUA8c/j6w2rGXHcD5yJcQ==",
   "success": true,
   "projectFilePath": "/media/inacio/HDD/IFSP/TCC/safemoney.API/safemoney.API.csproj",
   "expectedPackageFiles": [
@@ -74,9 +74,9 @@
     "/home/inacio/.nuget/packages/system.threading.tasks/4.3.0/system.threading.tasks.4.3.0.nupkg.sha512",
     "/home/inacio/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "/home/inacio/.nuget/packages/system.windows.extensions/5.0.0/system.windows.extensions.5.0.0.nupkg.sha512",
-    "/home/inacio/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/6.0.21/microsoft.netcore.app.runtime.linux-x64.6.0.21.nupkg.sha512",
-    "/home/inacio/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/6.0.21/microsoft.aspnetcore.app.runtime.linux-x64.6.0.21.nupkg.sha512",
-    "/home/inacio/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.21/microsoft.netcore.app.host.linux-x64.6.0.21.nupkg.sha512"
+    "/home/inacio/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/6.0.22/microsoft.netcore.app.runtime.linux-x64.6.0.22.nupkg.sha512",
+    "/home/inacio/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/6.0.22/microsoft.aspnetcore.app.runtime.linux-x64.6.0.22.nupkg.sha512",
+    "/home/inacio/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.22/microsoft.netcore.app.host.linux-x64.6.0.22.nupkg.sha512"
   ],
   "logs": []
 }

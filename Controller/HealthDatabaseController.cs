@@ -14,21 +14,6 @@ namespace safemoney.API.Controller
             _databaseChecker = databaseChecker;
         }
 
-        [HttpGet("connection")]
-        public IActionResult GetConnectionInfo()
-        {
-            bool isConnected = _databaseChecker.IsDatabaseConnected();
-
-            if (isConnected)
-            {
-                return StatusCode(200,"A conexão com o banco de dados está disponível.");
-            }
-            else
-            {
-                return StatusCode(500, "Não foi possível conectar ao banco de dados{}.");
-            }
-        }
-
         [HttpGet("status")]
         public IActionResult CheckDatabaseStatus()
         {
